@@ -1,8 +1,7 @@
 import React from 'react';
-// import ReactDOM from 'react-dom';
 
 const withDelete = delay => (Component) => {
-    class withDelete extends React.Component {
+    class WithDelete extends React.Component {
         state = {
             isVisible: true
         };
@@ -23,7 +22,7 @@ const withDelete = delay => (Component) => {
         }
     }
 
-    return withDelete;
+    return WithDelete;
 };
 
 export default withDelete;
