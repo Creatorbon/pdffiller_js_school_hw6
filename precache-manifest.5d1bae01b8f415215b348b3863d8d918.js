@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2c70af08dfc528c3fc546d9489e0a080",
+    "revision": "04538a9b50e94061e18e2840a6123087",
     "url": "/pdffiller_js_school_hw6/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pdffiller_js_school_hw6/static/js/2.28bd34e7.chunk.js"
   },
   {
-    "revision": "3fccb47bfb43ed529c55",
-    "url": "/pdffiller_js_school_hw6/static/js/main.f6e0473c.chunk.js"
+    "revision": "6933b9535a1492a179ff",
+    "url": "/pdffiller_js_school_hw6/static/js/main.14ed5128.chunk.js"
   },
   {
     "revision": "312e394eefaecaa56f78",
